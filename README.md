@@ -8,9 +8,13 @@ Stores the player setting as a client pref.
 Commands:
 
 > !grav 150
+>
 > !grav 600
+>
 > !grav 200
+>
 > !grav reset
+>
 
 CVars:
 
